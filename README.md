@@ -13,5 +13,5 @@ When you run the program, it will randomly generate a Haiku using arrays to then
 ![image](https://github.com/Griffia/Haiku-Generator/assets/100473677/49c90290-edae-47b0-8217-9ad2e31c767d)
 
 
-##Credits
+## Credits
 Created by Andrew Griffiths
